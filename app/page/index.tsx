@@ -1,7 +1,7 @@
 // pages/index.tsx
 import type { NextPage } from 'next';
-import Section from 'src/components/Section';
-import Header from 'src/components/Header';
+import Section from '../src/components/Section';
+import Header from '../src/components/Header';
 import Image from 'next/image';
 
 const Home: NextPage = () => {
